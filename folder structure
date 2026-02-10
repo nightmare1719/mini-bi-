@@ -1,0 +1,25 @@
+mini_bi_backend/
+│
+├── app/
+│   ├── main.py
+│   ├── routes/
+│   │   ├── upload.py
+│   │   ├── dashboard.py
+│   │   ├── ai_advisor.py
+│   │   └── auth.py
+│   │
+│   ├── services/
+│   │   ├── data_profiler.py
+│   │   ├── auto_visualizer.py
+│   │   ├── ai_analyzer.py
+│   │   └── export_service.py
+│   │
+│   ├── models/
+│   │   └── user.py
+│   │
+│   └── utils/
+│       └── plan_checker.py
+│
+├── uploads/
+├── requirements.txt
+└── README.md
